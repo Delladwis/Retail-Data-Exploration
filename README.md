@@ -1,2 +1,4 @@
-# Data-Analyst-Project
-Project-project data analysis
+# Eksplorasi-Data-Retail
+Data analyst project with DQLab Academy
+
+-----------------------------------------
