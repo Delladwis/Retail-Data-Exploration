@@ -1,4 +1,4 @@
-# 📊 Eksplorasi Data Penjualan Retail – Toserba Xera
+# 📊 Eksplorasi Data Penjualan Retail
 
 ## 📘 Overview
 Project ini berisi analisis eksplorasi data penjualan mitra retail **Toserba Xera** untuk memahami pola penjualan, kondisi stok barang, serta preferensi harga pelanggan. Analisis ini merupakan bagian dari **project pembelajaran di DQLab Academy** dan dikerjakan menggunakan bahasa pemrograman **R**.
