@@ -47,9 +47,6 @@ barplot(penjualan_perbulan$x,
         border="orange")
 penjualan_perbulan
 
-#Penjualan Mitra Toserba Xera pada nulan April-Juni 2020 semakin menurun. 
-#Penjualan Tertinggi yang dimiliki oleh Mitra Toserba Xera berada pada bulan April 2020
-
 #Keluarkan data dengan jenis transaksi adalah Penjualan
 data_penjualan = data[data$Jenis.Transaksi == "Penjualan",]
 
@@ -106,9 +103,6 @@ barplot(data_gabung,
         col=c("blue","cyan"))
 legend('topright',fill=c("blue","cyan"),legend=c('Stok Masuk','Penjualan'))
 
-
-
-
 #Analisis hubungan antara Harga Barang dengan Jumlah Transaksi
 #Memilih data dengan jenis transaksi Penjualan
 data <- data[(data$Jenis.Transaksi) == "Penjualan",]
@@ -140,6 +134,4 @@ hist(data_transaksi_freq,
      col="blue"
 )
 
-# Dari hasil yang kudapatkan, aku dapat mengetahui bahwa barang yang berada pada rentang harga Rp 10.000-Rp15.000 
-# lebih banyak terjual dibanding rentang harga lainnya. Setelah itu, barang dengan harga kurang dari Rp 5000 menempati posisi kedua. 
-# Aku dapat mengambil kesimpulan bahwa barang yang berada di rentang harga ini merupakan barang yang paling laku.
+
