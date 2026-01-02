@@ -12,7 +12,7 @@ Project ini berisi analisis eksplorasi data penjualan mitra retail **Toserba Xer
 
 ---
 
-## Dataset
+## 🗂️ Dataset
 - **Sumber Data:** DQLab Academy (Dataset Retail)  
 - **Periode Data:** April – Juni 2020
 - **Deskripsi Data:** Dataset mencakup informasi transaksi penjualan, stok barang masuk, harga produk, serta periode waktu penjualan.
